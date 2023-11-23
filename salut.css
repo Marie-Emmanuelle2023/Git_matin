@@ -15,11 +15,23 @@
     
 }
 img{
-    width: 230px;
-    height: 300px;
+    width: 270px;
+    height: 350px;
+    margin: 20px;
 }
 
 video{
-    width: 230px;
+    width: 270px;
     height: 300px;
+}
+p{ 
+    text-align: center;
+}
+
+.medias{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
 }
