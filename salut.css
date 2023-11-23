@@ -1,0 +1,16 @@
+.moi{
+    background: rgb(177,3,215);
+    background: linear-gradient(90deg, rgba(177,3,215,1) 9%, rgba(231,0,255,1) 58%, rgba(232,96,199,1) 90%);
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.box{
+    background-color:palevioletred;
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px; 
+    
+}
